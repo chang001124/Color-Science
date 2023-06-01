@@ -1,0 +1,11 @@
+CHI,,Cipher,,,,,Results
+Image,Type,Red,Green,Blue,alpha,chi value,Red,Green,Blue
+Aerial,grey,,,,0.05,293.248,Fail
+Babara,grey,,,,0.05,293.248,Fail
+Baboon,grey,,,,0.05,293.248,Fail
+Boat,grey,,,,0.05,293.248,Fail
+house,grey,,,,0.05,293.248,Fail
+Lena,grey,,,,0.05,293.248,Fail
+Peppers,grey,,,,0.05,293.248,Fail
+Tank,grey,,,,0.05,293.248,Fail
+Truck,grey,,,,0.05,293.248,Fail
