@@ -2,7 +2,7 @@ import numpy as np
 import cv2
 import os
 import re
-G=1 #times
+G=120 #times
 a=1
 b=1
 def matrix(a, b):
